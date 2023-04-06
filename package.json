@@ -1,0 +1,24 @@
+{
+  "name": "ss",
+  "version": "1.0.0",
+  "description": "ddd",
+  "main": "s",
+  "scripts": {
+    "test": "s"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "express-handlebars": "^7.0.2",
+    "googleapis": "^114.0.0",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.0.2",
+    "nodemailer": "^6.9.1"
+  }
+}
